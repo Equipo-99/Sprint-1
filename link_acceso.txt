@@ -1,0 +1,2 @@
+Para la conexión con git a este repositorio se usa el siguiente link:
+https://github.com/Equipo-99/Sprint-1.git
